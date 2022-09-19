@@ -4,3 +4,4 @@ this line is for local repo pull op
 editing line in feature1 branch
 adding line from local to feature1 branch
 editing another line for feature2 branch 
+showing rebase operation
